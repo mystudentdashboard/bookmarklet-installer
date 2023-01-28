@@ -6,7 +6,7 @@ A tool to share bookmarklets and help users install them
 
 Bookmarklet Installer uses URL parameters. Example:
 
-`https://mystudentdashboard.github.io/bookmarklet-installer?bookmarklet="javascript:alert("hello!")"&title=Hello alert`
+`https://mystudentdashboard.github.io/bookmarklet-installer?bookmarklet=javascript:alert("hello!")&title=Hello alert`
 
 Usage:
 
